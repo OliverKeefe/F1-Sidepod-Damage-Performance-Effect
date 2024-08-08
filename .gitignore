@@ -1,0 +1,70 @@
+# Python-related files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+*.sqlite3
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+env/
+venv/
+ENV/
+venv.bak/
+venv.lib/
+f1-sidepod-env/
+
+# VS Code settings
+.vscode/
+.code-workspace
+
+# PyCharm settings
+.idea/
+
+# MacOS-specific files
+.DS_Store
+
+# Windows-specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+*.orig
+*.old
+
+# Compiled files
+*.out
+*.o
+*.class
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Distribution files
+*.deb
+*.rpm
+*.tar.gz
+*.zip
+*.7z
+*.tar.bz2
+*.gem
+*.dmg
+
+# Jupyter Notebook outputs
+**/*.ipynb_checkpoints/
