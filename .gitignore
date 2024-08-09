@@ -11,6 +11,9 @@ dist/
 build/
 *.log
 *.sqlite3
+*.project
+*.lock
+Pipfile
 
 # Jupyter Notebooks checkpoints
 .ipynb_checkpoints/
