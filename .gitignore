@@ -22,6 +22,9 @@ ENV/
 venv.bak/
 venv.lib/
 f1-sidepod-env/
+f1_sidepod_3_10_14/
+f1_sidepod_3_10_14
+3.10.14/
 
 # VS Code settings
 .vscode/
